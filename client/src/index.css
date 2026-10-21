@@ -1,0 +1,32 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  min-width: 320px;
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+button,
+input,
+select,
+textarea {
+  font: inherit;
+}
+
+button:focus-visible,
+a:focus-visible {
+  outline: 2px solid #e65365;
+  outline-offset: 3px;
+}
+
+::selection {
+  background: #f8cbd1;
+  color: #17243a;
+}
