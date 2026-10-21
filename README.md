@@ -6,6 +6,20 @@ ShopPulse is an e-commerce product analytics dashboard designed to help product 
 
 E-commerce teams need to understand where customers abandon their purchase journey and what problems they experience. ShopPulse combines funnel analytics, shipping-fee comparisons, and AI-assisted customer review analysis to help teams identify areas worth investigating and propose data-informed product experiments.
 
+
+## Dashboard Preview
+
+### 1. ShopPulse Analytics Dashboard
+![ShopPulse Dashboard](screenshots/dashboard.png)
+
+### 2. Shipping Fee Analysis
+![Shipping Fee Analysis](screenshots/shipping-analysis.png)
+
+### 3. AI-Powered Customer Review Insights
+![AI Customer Review Insights](screenshots/ai-insights.png)
+
+
+
 ## Key Features
 
 - **Checkout Funnel Analytics:** Track shopping sessions, checkout starts, purchases, and conversion performance.
